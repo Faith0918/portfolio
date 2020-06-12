@@ -1,0 +1,11 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Faith0918/portfolio.git",
+  "author": "faith0918 <sinsil0918@gmail.com>",
+"scripts": {
+    "start": "index.html"
+},
+  "license": "MIT"
+}
