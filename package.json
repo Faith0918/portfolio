@@ -4,8 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/Faith0918/portfolio.git",
   "author": "faith0918 <sinsil0918@gmail.com>",
-"scripts": {
+  "scripts": {
     "start": "index.html"
-},
-  "license": "MIT"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "serialize-javascript": "^4.0.0"
+  }
 }
